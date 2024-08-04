@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/summerInternship/static/css/main.6150ef6e.css",
+    "main.js": "/summerInternship/static/js/main.c948fc75.js",
+    "static/media/hero image 2.png": "/summerInternship/static/media/hero image 2.5b7a2eba9b6707523318.png",
+    "static/media/Hero image 1.png": "/summerInternship/static/media/Hero image 1.6b3b63436e6091445dfa.png",
+    "static/media/Login in page image.png": "/summerInternship/static/media/Login in page image.840b16884f24f039b7ac.png",
+    "static/media/image 18.png": "/summerInternship/static/media/image 18.392db54b7b832f95ec3f.png",
+    "static/media/image 19.png": "/summerInternship/static/media/image 19.c28094999f34ec42b2cc.png",
+    "static/media/image 11.png": "/summerInternship/static/media/image 11.5e41558a3ebcf4941d3b.png",
+    "static/media/image 8.png": "/summerInternship/static/media/image 8.37aee8fce4b095b82aa4.png",
+    "static/media/image 6.png": "/summerInternship/static/media/image 6.c7d675281eed48208d6b.png",
+    "static/media/image 3.png": "/summerInternship/static/media/image 3.aefc0b20b400221de91b.png",
+    "static/media/image 10.png": "/summerInternship/static/media/image 10.b602dca542dd2760091e.png",
+    "static/media/image 2.png": "/summerInternship/static/media/image 2.2393faf7587912ba6706.png",
+    "static/media/image 5.png": "/summerInternship/static/media/image 5.260db7a2668119fbc23f.png",
+    "static/media/image 17.png": "/summerInternship/static/media/image 17.4f44af30b9abff8131a3.png",
+    "static/media/image 1.png": "/summerInternship/static/media/image 1.a9030ff1feba8b4daff1.png",
+    "static/media/image 4.png": "/summerInternship/static/media/image 4.a4f99e52c01d722e512f.png",
+    "static/media/image 7.png": "/summerInternship/static/media/image 7.92bec972a0497ac5c775.png",
+    "static/media/prabhas.JPG": "/summerInternship/static/media/prabhas.155df6cf1d22b9d8da00.JPG",
+    "index.html": "/summerInternship/index.html",
+    "main.6150ef6e.css.map": "/summerInternship/static/css/main.6150ef6e.css.map",
+    "main.c948fc75.js.map": "/summerInternship/static/js/main.c948fc75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6150ef6e.css",
+    "static/js/main.c948fc75.js"
+  ]
+}

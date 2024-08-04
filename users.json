@@ -1,0 +1,32 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "email": "admin@example.com",
+    "phone": "1234567890",
+    "address": "123 Admin St",
+    "state": "Admin State",
+    "zip": "12345"
+  },
+  {
+    "username": "user1",
+    "password": "user123",
+    "role": "user",
+    "email": "user1@example.com",
+    "phone": "0987654321",
+    "address": "456 User Ln",
+    "state": "User State",
+    "zip": "67890"
+  },
+  {
+    "username": "user2",
+    "password": "user456",
+    "role": "user",
+    "email": "user2@example.com",
+    "phone": "1122334455",
+    "address": "789 User Blvd",
+    "state": "User City",
+    "zip": "11223"
+  }
+]
