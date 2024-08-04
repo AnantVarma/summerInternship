@@ -1,0 +1,18 @@
+header{
+    background-color: green;
+}
+nav{
+    float: right;
+}
+.navbutton link{
+    border: 3px solid black;
+    margin-right: 10px;
+    padding: 10px 20px;
+}
+
+nav a.active{
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: #45a049;
+    color: aliceblue;
+  }

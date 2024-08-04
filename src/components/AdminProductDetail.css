@@ -1,0 +1,102 @@
+.product-detail {
+    padding: 1rem;
+}
+
+.product-detail img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f3ef;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f7f3ef;
+  }
+  
+  .contact-button {
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 2px solid #000;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .contact-button:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  
+  .description-page {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 50px;
+  }
+  
+  .left-panel {
+    flex: 2;
+    padding: 20px;
+  }
+  
+  .right-panel {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .guide {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .guide input {
+    width: 45%;
+  }
+  
+  .add-guide {
+    margin-top: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    color: #000;
+  }
+  
+  .right-panel img {
+   
+    height: auto;
+    width: 90%;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }

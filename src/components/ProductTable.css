@@ -1,0 +1,44 @@
+.product-table {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 0.5rem; /* Reduced padding */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px; 
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-top: 2rem;
+    margin-right: 25px;
+}
+
+.pagination button {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    margin: 0 0.5rem;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.pagination button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.pagination span {
+    font-size: 1.2rem;
+    margin: 0 1rem;
+}

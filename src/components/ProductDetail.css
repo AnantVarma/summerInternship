@@ -1,0 +1,8 @@
+.product-detail {
+    padding: 1rem;
+}
+
+.product-detail img {
+    max-width: 100%;
+    border-radius: 8px;
+}
